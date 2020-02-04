@@ -1,0 +1,89 @@
+/* GENERAL STYLES */
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("img/storm.jpg");
+    background-attachment: fixed; 
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+button {
+    background-color:#efdb3e;
+    color: #333;
+    border-radius: 10px;
+}
+
+input {
+    width: 245px;
+    border-radius: 10px;
+}
+
+.main-wrapper{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo img {
+    width: 150px;
+}
+
+header {
+    background: rgba(20,20,20,0.5);
+}
+
+.movie-screen img {
+width: 100%;
+}
+
+h3, h4 {
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    color: rgba(20,20,20,0.7);
+}
+
+.movie-screen {
+    width: 400px;
+    display: block;
+    background: rgba(20,20,20,0.8);
+    border: 3px solid#efdb3e;
+    padding: 5px;
+    margin-bottom: 20px;
+    margin-top: 4%;
+    margin-left: 40%;
+}
+
+.big-screen {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    height: 100%;
+    background: #333;
+    display: block;
+    border: 5px solid#efdb3e;
+}
+
+.big-screen img {
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
