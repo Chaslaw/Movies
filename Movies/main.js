@@ -104,7 +104,7 @@ function listMovie () {
             img.setAttribute("src", element.img );
             document.querySelector('.big-screen').appendChild(img);
         }
-            else{
+   //         else{
 //             input.value = "";
           
 //         } ovde sam pokusao da napravim prazan strigng kad nema unosa, medjutim nije nesto radilo kako treba, mozda je trebalo da ga uslovim dodatno sa else if itd... 
